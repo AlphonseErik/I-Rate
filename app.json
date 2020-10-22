@@ -1,0 +1,12 @@
+{
+  "name": "I-Rate",
+  "displayName": "I-Rate",
+  "expo": {
+    "name": "I-Rate",
+    "slug": "I-Rate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
